@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Xxiled!
-- 👀 CEO and Founder at CompX Labs
-- 🌱 Currently building smart contracts in TealScript
-- 💞️ I’m looking to collaborate on DeFi projects on the Algorand blockchain
+- 👀 CEO and Founder at Neon Forge Ltd
+- 🌱 Building smart contracts in Typescript
+- 💞️ Building affiliate and SEO 
+- 🖼️ Building e-commerce
+- 🤖 Exploring Agents and x402
 
 <!---
 xxiled-plastic-cat/xxiled-plastic-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
